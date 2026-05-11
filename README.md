@@ -21,7 +21,7 @@ Bem-vindo ao repositório do meu portfólio! Este projeto foi desenvolvido para 
 
 O portfólio está disponível online no seguinte endereço:
 
-[https://myportifolio-ashen.vercel.app/](https://myportifolio-ashen.vercel.app/)
+[https://myportifolio-phi-brown.vercel.app/](https://myportifolio-ashen.vercel.app/)
 
 ## 📸 Prévia
 
